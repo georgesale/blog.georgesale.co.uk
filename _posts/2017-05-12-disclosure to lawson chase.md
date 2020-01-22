@@ -1,9 +1,5 @@
 ---
 layout: post
-title: Security Disclosure - Lawson Chase
----
----
-layout: post
 title:  "security disclosure - Lawson Chase"
 date:   2017-05-12
 ---

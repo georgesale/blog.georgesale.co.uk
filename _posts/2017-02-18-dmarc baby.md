@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DMARC, baby!"
-date:   2016-02-18
+date:   2017-02-18
 ---
 
 Last weekend, I decided to have a go at implementing [DMARC](https:www.dmarc.org) for my own *georgesale.co.uk* email address.

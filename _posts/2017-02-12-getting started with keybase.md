@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "getting started with Keybase"
-date:   2016-02-12
+date:   2017-02-12
 ---
 
 I recently got an invite for the excellent [Keybase](https://keybase.io).
